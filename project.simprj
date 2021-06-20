@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><project input_data_directory="" result_directory="results">
+<model file="model0.simmdl"/>
+<experiment file="experiment0.simexp"/>
+<response goal="Match Target" label="" name="LengthQ1">
+<target_value>NaN</target_value>
+<target_value>NaN</target_value>
+</response>
+<response goal="Match Target" label="" name="LengthQ2">
+<target_value>NaN</target_value>
+<target_value>NaN</target_value>
+</response>
+<response goal="Match Target" label="" name="LengthQ3">
+<target_value>NaN</target_value>
+<target_value>NaN</target_value>
+</response>
+<response goal="Match Target" label="" name="AvgWaitQ1">
+<target_value>NaN</target_value>
+<target_value>NaN</target_value>
+</response>
+<response goal="Match Target" label="" name="AvgWaitQ2">
+<target_value>NaN</target_value>
+<target_value>NaN</target_value>
+</response>
+<response goal="Match Target" label="" name="AvgWaitQ3">
+<target_value>NaN</target_value>
+<target_value>NaN</target_value>
+</response>
+</project>
